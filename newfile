@@ -2,3 +2,9 @@
 
 ![Link an image.](/desktopScreenshot 2024-05-21 at 11.35.10.png)
 
+```Javascript
+var num=1;
+var num2=43;
+var num3="pepito";
+```
+
